@@ -7,7 +7,7 @@ public class Prob4{
         for(int i = 0; i < n; i++){
             String prefix = scan.nextLine();
             ArrayList<String> equation = new ArrayList<>;
-            for(int t = 0; t<prefix.length; t++){
+            for(int t = 0; t<prefix.length(); t++){
                 equation.add(prefix.charAt(t));
             }
             while(equation.size()!=1){
