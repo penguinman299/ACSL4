@@ -18,7 +18,7 @@ public class Prob4{
     }
 
     public static ArrayList<String> solver(new ArrayList<String> prefix){
-        retutn new ArrayList<String>;
+        return new ArrayList<String>;
     }
 
     public static int add(int a, int b){
